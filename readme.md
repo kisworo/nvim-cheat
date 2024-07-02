@@ -2,15 +2,16 @@
 ## quick move up and down
 20k
 10j
-k untuk keatas
-j untuk kebawah
+k move up
+j move down
 
 ## quick move per block code
 { 
-untuk ke kanan bawah
+move down block
 
 }
-untuk ke kiri atas
+move up block
 
 ## open and focus between editor & treeview
 space + o
+
