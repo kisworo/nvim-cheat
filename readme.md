@@ -7,7 +7,7 @@ j untuk kebawah
 
 ## quick move per block code
 { 
-untuk ke kanan
+untuk ke kanan bawah
 
 }
-untuk ke kiri
+untuk ke kiri atas
