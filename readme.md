@@ -11,3 +11,6 @@ untuk ke kanan bawah
 
 }
 untuk ke kiri atas
+
+## open and focus between editor & treeview
+space + o
