@@ -15,3 +15,8 @@ move up block
 ## open and focus between editor & treeview
 space + o
 
+## undo
+u
+## redo
+ctrl + r
+
