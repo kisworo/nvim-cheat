@@ -19,4 +19,6 @@ space + o
 u
 ## redo
 ctrl + r
+## show hidden files
+shift + h
 
