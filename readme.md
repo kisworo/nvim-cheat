@@ -21,4 +21,6 @@ u
 ctrl + r
 ## show hidden files
 shift + h
+## change word
+:%s/old/new/gc
 
